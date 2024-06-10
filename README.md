@@ -6,7 +6,7 @@
 >
 > Laboratory work at the university using Haskell
 
-**Предмет (Subject)** :  Функциональное программирование / Functional programming
+**Предмет / Subject** :  Функциональное программирование / Functional programming
 
 **Курс / Course** : 2ой курс / 2nd course
 
